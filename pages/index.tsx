@@ -87,7 +87,7 @@ const Home: NextPage = () => {
           </div>
           <div className="mt-3 flex items-center justify-between">
             <span className="text-2xl font-bold">$ 450</span>
-            <div className="rounded-xl bg-blue-400 py-3 px-10">
+            <div className="rounded-xl bg-blue-400 py-3 px-3">
               <span className="text-white">Add to cart</span>
             </div>
           </div>
